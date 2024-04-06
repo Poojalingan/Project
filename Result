@@ -1,8 +1,8 @@
-	                  LinearSVC	  Decision tree	  Logistic Regression	  Random Forest	 Gradient Boosting	Naïve Bayes
-Accuracy	          0.996           0.996             0.989                0.994	          0.995	         0.855
-Recall	            0.997	          0.996             0.992	               0.993	          0.993	         0.993
+	                  LinearSVC   Decision tree    Logistic Regression	  Random Forest	 Gradient Boosting	Naïve Bayes
+Accuracy	          0.996           0.996             0.989                      0.994	          0.995	         0.855
+Recall	                  0.997	          0.996             0.992	               0.993	          0.993	         0.993
 Precision	          0.995	          0.995             0.987	               0.996	          0.997	         0.997
-F1 Score	          0.995	          0.996	            0.989	               0.995            0.995	         0.995
-R-Squared Score	    0.985	          0.984	            0.957	               0.979	          0.982	           -
-Mean Absolute Error	0.003	          0.003	            0.010	               0.005	          0.004	           -
-Mean Squared Error	0.003	          0.003	            0.010	               0.005	          0.004	           -
+F1 Score	          0.995	          0.996	            0.989	               0.995              0.995	         0.995
+R-Squared Score	          0.985	          0.984	            0.957	               0.979	          0.982	           -
+Mean Absolute Error	  0.003	          0.003	            0.010	               0.005	          0.004	           -
+Mean Squared Error	  0.003	          0.003	            0.010	               0.005	          0.004	           -
